@@ -1,0 +1,8 @@
+{
+  "name": "Lineage II Chronicle 1 — Interactive Teleport Map \u0026 Adena Route Calculator",
+  "description": "High-resolution interactive cartography of Aden and Elmore for Lineage II Chronicle 1 (Harbingers of War). Select origin and destination points to highlight reachable routes and calculate the cheapest Adena teleport paths.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
