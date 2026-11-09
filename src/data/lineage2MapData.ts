@@ -60,10 +60,10 @@ export interface DataClarificationNote {
  * In 179.webp, Elmore's 8 columns align horizontally with Columns 3..10 of Aden (offset = 2 * 164.2 = 328.4px).
  */
 export const MAP_ASSETS = {
-  adenMapUrl: '/assets/aistudio/aden-c1_71f8b02e.jpg',
-  elmoreMapUrl: '/assets/aistudio/elmore-c1_5a1cedc9.jpg',
-  diagramRefUrl: '/assets/aistudio/179_bc5ea794.webp',
-  priceTableRefUrl: '/assets/aistudio/178_24361917.webp',
+  adenMapUrl: 'assets/aistudio/aden-c1_71f8b02e.jpg',
+  elmoreMapUrl: 'assets/aistudio/elmore-c1_5a1cedc9.jpg',
+  diagramRefUrl: 'assets/aistudio/179_bc5ea794.webp',
+  priceTableRefUrl: 'assets/aistudio/178_24361917.webp',
 };
 
 export const WORLD_GEOMETRY = {
